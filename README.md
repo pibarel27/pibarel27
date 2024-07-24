@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Akash Maisnam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="coding.gif" alt"Code">
-<p align="left"> <img src="NEW.mp4" alt="pibarel27" /> </p>
-- 🔭 I’m currently working on **Agri App**
+<img align="right" width="400" src="AWESOME.mp4" alt"Code">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pibarel27&label=Profile%20views&color=0e75b6&style=flat" alt="pibarel27" /> </p>
 
-- 🌱 I’m currently learning **Python, MERN, Flutter**
+- 🔭 I’m currently working on *Agri App*
+
+- 🌱 I’m currently learning *Python, MERN, Flutter*
 
 - 👨‍💻 All of my projects are available at [https://portfolio2-0-rouge-nine.vercel.app](https://portfolio2-0-rouge-nine.vercel.app)
 
 - 📝 I regularly write articles on [https://pibablog.vercel.app/thesis](https://pibablog.vercel.app/thesis)
 
-- 📫 How to reach me **maisnampibarel@icloud.com**
+- 📫 How to reach me *maisnampibarel@icloud.com*
 
-- ⚡ Fun fact **I'm bad liar**
+- ⚡ Fun fact *I'm bad liar*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
