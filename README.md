@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ReactJs**
 
-- 📫 How to reach me **maisnampibarel@icloud.com**
+- 📫 Feel free to connect mr**maisnampibarel@icloud.com**
 
 - 📄 Know about my experiences [https://portfolio2-0-rouge-nine.vercel.app/resume](https://portfolio2-0-rouge-nine.vercel.app/resume)
 
