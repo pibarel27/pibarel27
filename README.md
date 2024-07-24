@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Akash Maisnam</h1>
+<h1 align="center">Hola 👋, I'm Pibarel Maisnam</h1>
 <h3 align="center">A passionate Front-end Developer from India</h3>
 <img align="right" width="400" src="Simple.gif" alt"Code">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pibarel27&label=Profile%20views&color=0e75b6&style=flat" alt="pibarel27" /> </p>
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ReactJs**
 
-- 📫 Feel free to connect mr**maisnampibarel@icloud.com**
+- 📫 Feel free to connect me **maisnampibarel@icloud.com**
 
 - 📄 Know about my experiences [https://portfolio2-0-rouge-nine.vercel.app/resume](https://portfolio2-0-rouge-nine.vercel.app/resume)
 
