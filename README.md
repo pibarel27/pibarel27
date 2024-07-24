@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Maisnam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<video align="right" alt"Code" width="400" src="GIF.mp4">
+<img align="right" alt"Code" width="400" src="https://i.gifer.com/Ry6p.mp4">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pibarel27&label=Profile%20views&color=0e75b6&style=flat" alt="pibarel27" /> </p>
 
 - 🔭 I’m currently working on **Agri App**
