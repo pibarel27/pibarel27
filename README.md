@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://portfolio2-0-rouge-nine.vercel.app/resume](https://portfolio2-0-rouge-nine.vercel.app/resume)
 
-- ⚡ Fun fact **I'm bad liar**
+- ⚡ Fun fact **I speak three languages: English, Hindi, and Manipuri. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
