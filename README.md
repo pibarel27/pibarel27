@@ -9,7 +9,7 @@
 
 - 👨‍💻 Visit my profile [https://portfolio2-0-rouge-nine.vercel.app](https://portfolio2-0-rouge-nine.vercel.app)
 
-- 📝 I regularly write articles on [https://pibablog.vercel.app/thesis](https://pibablog.vercel.app/thesis)
+- 📝 I regularly write articles on https://pibablog.vercel.app
 
 - 💬 Ask me about **ReactJs**
 
