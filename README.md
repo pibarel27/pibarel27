@@ -9,13 +9,13 @@
 
 - 👨‍💻 Visit my profile **[My Website](https://pibarel.vercel.app)** 
 
-- 📝 I regularly write articles on https://pibablog.vercel.app
+- 📝 I regularly write articles on**[My Blog](https://pibablog.vercel.app)**
 
 - 💬 Ask me about **Anything except Maths**
 
-- 📫 Feel free to connect me **maisnampibarel@icloud.com**
+- 📫 Feel free to connect me **[Buzz me](maisnampibarel@icloud.com**)
 
-- 📄 Know about my experiences [https://portfolio2-0-rouge-nine.vercel.app/resume](https://portfolio2-0-rouge-nine.vercel.app/resume)
+- 📄 Know about my experiences [Resume](https://portfolio2-0-rouge-nine.vercel.app/resume)
 
 - ⚡ Fun fact **I can sleep whole day**
   
