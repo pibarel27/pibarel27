@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Anything except Maths**
 
-- 📫 Feel free to connect me **[Buzz me](maisnampibarel@icloud.com**)
+- 📫 Feel free to connect me **[Buzz me](maisnampibarel@icloud.com)**
 
-- 📄 Know about my experiences [Resume](https://portfolio2-0-rouge-nine.vercel.app/resume)
+- 📄 Know about my experiences **[Resume](https://portfolio2-0-rouge-nine.vercel.app/resume)**
 
 - ⚡ Fun fact **I can sleep whole day**
   
