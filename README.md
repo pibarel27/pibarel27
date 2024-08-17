@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, MERN, Flutter**
 
-- 👨‍💻 Visit my profile [https://portfolio2-0-rouge-nine.vercel.app](https://portfolio2-0-rouge-nine.vercel.app)
+- 👨‍💻 Visit my profile https://pibarel.vercel.app
 
 - 📝 I regularly write articles on https://pibablog.vercel.app
 
