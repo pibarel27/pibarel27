@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Anything except Maths**
 
-- 📫 Feel free to connect me **[Buzz me](maisnampibarel@icloud.com)**
+- 📫 Feel free to connect me **[Buzz me](maisnampibarel@gmail.com)**
 
 - 📄 Know about my experiences **[Resume](https://portfolio2-0-rouge-nine.vercel.app/resume)**
 
