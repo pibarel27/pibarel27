@@ -9,7 +9,7 @@
 
 - 👨‍💻 Visit my profile **[My Website](https://pibarel.vercel.app)** 
 
-- 📝 I regularly write articles on**[My Blog](https://pibablog.vercel.app)**
+- 📝 I regularly write articles on **[My Blog](https://pibablog.vercel.app)**
 
 - 💬 Ask me about **Anything except Maths**
 
