@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I can sleep whole day**
   
-## ❤️ Let's get connected:
+## ❤️ Let's get connect:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-maisnam-92726224b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-maisnam-92726224b/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/pibarel27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pibarel27" height="30" width="40" /></a>
