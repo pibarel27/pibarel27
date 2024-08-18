@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Anything but except my relationship status**
 
-- 📫 Feel free to connect me **[Buzz me](maisnampibarel@gmail.com)**
+- 📫 Feel free to connect me **[Buzz me](mailto:maisnampibarel@gmail.com)**
 
 - 📄 Know about my experiences **[Resume](https://portfolio2-0-rouge-nine.vercel.app/resume)**
 
@@ -59,7 +59,7 @@
  <a href="https://buymeacoffee.com/pibarel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 
-## 📊 My Stats:
+## 📊:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pibarel27&show_icons=true&locale=en&layout=compact" alt="pibarel27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pibarel27&show_icons=true&locale=en" alt="pibarel27" /></p>
