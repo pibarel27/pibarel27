@@ -16,7 +16,7 @@
 
 - 📫 Feel free to connect me **[Buzz me](mailto:maisnampibarel@gmail.com)**
 
-- 📄 Know about my experiences **[Resume](https://portfolio2-0-rouge-nine.vercel.app/resume)**
+- 📄 Know about my experiences **[Resume](https://pibarel.vercel.app/resume)**
 
 - ⚡ Fun fact **I can sleep whole day**
 ## 🛠️ Technologies and Tools I use:
