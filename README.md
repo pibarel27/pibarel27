@@ -1,8 +1,9 @@
 <h1 align="center">Hola 👋, I'm Pibarel Maisnam</h1>
 <h3 align="center">A passionate Front-end Developer from Imphal</h3>
-<img align="right" width="400" src="Simple.gif" alt"Code">
+<img align="right"  width="500" src="Simple.gif" alt"Code">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pibarel27&label=Profile%20views&color=0e75b6&style=flat" alt="pibarel27" /> </p>
 
+## 🚀 About Me
 - 🔭 I’m currently working on **Something which is very interesting**
 
 - 🌱 I’m currently learning **Python, MERN, Flutter**
