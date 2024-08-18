@@ -5,6 +5,7 @@
 
 ## 🚀 About Me
 <img align="right" width="500" src="Simple.gif" alt="Code">
+
 - 🔭 I’m currently working on **Something which is very interesting**
 
 - 🌱 I’m currently learning **Python, MERN, Flutter**
