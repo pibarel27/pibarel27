@@ -60,4 +60,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pibarel27&show_icons=true&locale=en" alt="pibarel27" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pibarel27&" alt="pibarel27" /></p>
