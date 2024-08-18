@@ -73,7 +73,8 @@
 
 
 ## 📊 My Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pibarel27&show_icons=true&locale=en&layout=compact" alt="pibarel27" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pibarel27&show_icons=true&locale=en&layout=compact&theme=radical" alt="pibarel27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pibarel27&show_icons=true&locale=en" alt="pibarel27" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pibarel27&show_icons=true&locale=en&theme=radical" alt="pibarel27" /></p>
+
 
