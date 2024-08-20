@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Anything but except my relationship status**
 
-- 📫 Feel free to connect me **[Buzz me](mailto:maisnampibarel@gmail.com)**
+📞 Feel free to connect me **[Call me](tel:+918595089569)**
 
 - 📄 Know about my experiences **[Resume](https://pibarel.vercel.app/resume)**
 
