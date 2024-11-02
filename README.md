@@ -1,5 +1,5 @@
-<h1 align="center">Hallo, 👋 Ich bin Pibarel Maisnam.</h1>
-<h3 align="center">A passionate Front-end Developer from Imphal</h3>
+<h1 align="center">Hello, 👋 I'm Pibarel Maisnam.</h1>
+<h3 align="center">A passionate Front-end Developer from Imphal, Manipur</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pibarel27&label=Profile%20views&color=0e75b6&style=flat" alt="pibarel27" /> </p>
 
 ## 🚀 About Me
