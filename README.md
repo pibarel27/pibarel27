@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Something which is very interesting**
 
-- 🌱 I’m currently learning **Unreal Engine 5**
+- 🌱 I’m currently learning **Maya3D**
 
 - 👨‍💻 Visit my profile **[My Website](https://pibarel.vercel.app)** 
 
